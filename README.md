@@ -64,10 +64,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixangcotjr&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixangcotjr&layout=compact&theme=radical" height="165"/>
-</p>
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayhams74s)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
