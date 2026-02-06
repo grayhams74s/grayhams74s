@@ -3,10 +3,19 @@
 <!--     PRO README        -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm Felix Angcot Jr.</h1>
-<h3 align="center">iOS Developer • Swift Specialist • App Builder</h3>
 
-<p align="center">
+
+
+<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1>
+<h3 align="left">iOS Developer • Swift Specialist • App Builder</h3>
+
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=crt">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=summer">
+</picture>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=felixangcotjr&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
@@ -64,16 +73,17 @@
 
 ## 📈 GitHub Stats
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayhams74s)](https://github.com/anuraghazra/github-readme-stats)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayhams74s)
+
 
 ---
 
-## 🚧 iOS Projects (Coming Soon)
+## 🚧 iOS Projects 
 
 - 📱 **SwiftUI Apps**
 - 🔐 Authentication & Firebase-backed apps
 - 🧠 Clean Architecture demos
-- 🌙 Dark mode–first UI designs
+- 🌙 Clean Modern UI designs
 
 > *Actively building & pushing iOS projects*
 
