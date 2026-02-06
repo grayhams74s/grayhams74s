@@ -5,7 +5,9 @@
 
 
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=felixangcotjr&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
 <h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1>
 <h3 align="left">iOS Developer • Swift Specialist • App Builder</h3>
 
@@ -14,10 +16,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&screen_effect=true&theme=blue_chill">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=summer">
 </picture>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felixangcotjr&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-</p>
 
 ---
 
