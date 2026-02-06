@@ -71,8 +71,7 @@
 
 ## 📈 GitHub Stats
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayhams74s)
-
+![Felix's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=grayhams74s&show_icons=true&theme=transparent)
 
 ---
 
