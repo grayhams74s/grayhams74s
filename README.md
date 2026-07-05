@@ -1,71 +1,109 @@
 <!-- ===================== -->
-<!--   FELIX ANG COT JR.   -->
+<!--   FELIX ANGCOT JR.   -->
 <!--     PRO README        -->
 <!-- ===================== -->
 
-
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felixangcotjr&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=grayhams74s&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
-<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1>
-<h3 align="left">iOS Developer • Swift Specialist • App Builder</h3>
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=road_trip&pixelate_avatar=false">
-   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=road_trip&pixelate_avatar=false">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=grayhams74s&theme=summer">
-</picture>
+<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1>
+<h3 align="left">Full-Stack Developer • Software Engineer • App Builder</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎂 **25 years old**
-- 🎓 Studied at **National University – Fairview**
-- 🍎 **iOS Developer** specializing in **Swift**
-- 🌐 Background in **Web App Development**
-- 🚀 Passionate about building **clean, scalable, user-friendly apps**
-- 📚 Always learning modern iOS frameworks & best practices
+- 📍 Based in **Metro Manila, Philippines**
+- 💻 **Full-Stack Software Engineer** building web, mobile, and AI-powered products
+- 🚀 Building production-ready apps with **Next.js, React, TypeScript, Node.js, PostgreSQL, and Swift**
+- 🍎 Also experienced in **iOS development** with **Swift, SwiftUI, Xcode, TestFlight, and App Store Connect**
+- 🧠 I enjoy owning products end-to-end: frontend, backend, APIs, database design, deployment, and polish
+- ⚡ I use modern AI dev tools like **Cursor, Claude, Codex, and OpenAI** to move fast while keeping quality high
+- 📚 Always learning better architecture, performance, UX, and scalable product patterns
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🌐 Web
+### 🌐 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
 
-### ⚙️ Tools
+### 📱 Mobile
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
+### 🤖 AI Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📌 Featured Focus
 
-- 🔹 Swift & SwiftUI Architecture
-- 🔹 UIKit → SwiftUI migration
-- 🔹 MVVM / Clean Architecture
-- 🔹 API Integration & Firebase
-- 🔹 Performance & UI/UX polish
+- 🔹 Full-stack web application development
+- 🔹 Next.js, React, TypeScript, and Tailwind CSS
+- 🔹 Node.js APIs, PostgreSQL, auth, and database design
+- 🔹 AI-powered product features and workflow automation
+- 🔹 iOS apps with Swift and SwiftUI
+- 🔹 Product polish, performance, UI/UX, and clean architecture
+
+---
+
+## 🚀 Featured Projects
+
+- 📱 **Notoo — AI Note Taker & Summary**  
+  iOS app that records, transcribes, and summarizes notes with AI.  
+  https://apps.apple.com/us/app/notoo-ai-note-taker-summary/id6767136519
+
+- 🏋️ **Quillolab**  
+  Gym management software used by gyms nationwide in the Philippines.  
+  https://www.quillolab.com/
+
+- 🎬 **Cliporah**  
+  AI video clipping tool that turns long videos or YouTube links into highlight shorts.  
+  https://cliporah.pro
+
+- 💪 **MaxGains**  
+  AI gains tracker that logs workouts and surfaces progress insights.  
+  https://apps.apple.com/us/app/maxgains-become-jacked/id6741852634
+
+- 🏙 **CityTour — Places Discovery App**  
+  Mobile app for discovering and exploring city points of interest.  
+  https://github.com/grayhams74s/CityGuideTourApp
+
+- 🛡 **Cognuito**  
+  AI video surveillance app that analyzes store feeds and alerts owners to suspicious behavior.  
+  https://cognuito.vercel.app/
 
 ---
 
@@ -73,24 +111,26 @@
 
 ![Felix's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=grayhams74s&show_icons=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=grayhams74s&layout=compact&theme=transparent)
+
 ---
 
-## 🚧 iOS Projects 
+## 🎓 Certifications
 
-- 📱 **SwiftUI Apps**
-- 🔐 Authentication & Firebase-backed apps
-- 🧠 Clean Architecture demos
-- 🌙 Clean Modern UI designs
-
-> *Actively building & pushing iOS projects*
+- **Tailwind CSS From Scratch | Learn By Building Projects**
+- **Full MERN Stack Project with MongoDB, Express, React, NodeJS**
+- **The Ultimate 2025 Fullstack Web Development Bootcamp**
+- **Complete React Developer (w/ Redux, Hooks, GraphQL)**
 
 ---
 
 ## 📫 Connect With Me
 
 - 🧑‍💻 GitHub: https://github.com/grayhams74s
-- 📱 iOS Portfolio: *Coming Soon*
-- 📩 Open for collaboration & opportunities
+- 💼 LinkedIn: https://www.linkedin.com/in/felixangcot
+- 📅 Schedule a call: https://cal.com/felixangcotjr/30min
+- 📩 Email: felixjunang@gmail.com
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
