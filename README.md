@@ -130,7 +130,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/felixangcot
 - 📅 Schedule a call: https://cal.com/felixangcotjr/30min
 - 📩 Email: felixjunang@gmail.com
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: https://felixangcotjr.com
 
 ---
 
