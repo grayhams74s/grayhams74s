@@ -109,8 +109,6 @@
 
 ## 📈 GitHub Stats
 
-![Felix's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=grayhams74s&show_icons=true&theme=transparent)
-
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=grayhams74s&layout=compact&theme=transparent)
 
 ---
