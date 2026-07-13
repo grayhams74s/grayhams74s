@@ -10,8 +10,6 @@
 <h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1>
 <h3 align="left">Full-Stack Developer • Software Engineer • App Builder</h3>
 
----
-
 ## 🧑‍💻 About Me
 
 - 📍 Based in **Metro Manila, Philippines**
@@ -21,8 +19,6 @@
 - 🧠 I enjoy owning products end-to-end: frontend, backend, APIs, database design, deployment, and polish
 - ⚡ I use modern AI dev tools like **Cursor, Claude, Codex, and OpenAI** to move fast while keeping quality high
 - 📚 Always learning better architecture, performance, UX, and scalable product patterns
-
----
 
 ## 🛠 Tech Stack
 
