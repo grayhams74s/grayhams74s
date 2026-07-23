@@ -136,9 +136,9 @@
   An AI-powered video platform that transforms long videos and YouTube links into engaging highlight shorts.
   https://cliporah.pro
 
-* 🛡 **Cognuito — AI Video Surveillance**
-  An intelligent video surveillance application that analyzes store footage and alerts business owners to potentially suspicious behavior.
-  https://cognuito.vercel.app/
+* 🌤 **LangChain Weather AI Agent**
+  An AI-powered weather assistant built with LangChain that uses LLMs, tool calling, and external weather APIs to deliver real-time weather information through natural language conversations.
+  https://langchain-weather-agent-363788033158.asia-southeast1.run.app/
 
 * 💪 **MaxGains — AI Fitness & Progress Tracker**
   An AI-powered fitness application that tracks workouts, analyzes physical progress, and provides personalized insights.
