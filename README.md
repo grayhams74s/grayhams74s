@@ -156,7 +156,8 @@
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grayhams74s&layout=compact&v=2)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=grayhams74s)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
 
 ---
 
