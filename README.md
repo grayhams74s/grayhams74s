@@ -146,11 +146,11 @@
 * 💪 **MaxGains — AI Fitness & Progress Tracker**
   An AI-powered fitness application that tracks workouts, analyzes physical progress, and provides personalized insights.
   https://apps.apple.com/us/app/maxgains-become-jacked/id6741852634
-
+<!--
 * 🏋️ **Quillolab — Gym Management SaaS**
   Production gym management software used by gyms across the Philippines for member management, attendance, sales, reporting, and operations.
   https://www.quillolab.com/
-
+-->
 * 🏙 **CityTour — Places Discovery App**
   A mobile application for discovering, organizing, and exploring city points of interest.
   https://github.com/grayhams74s/CityGuideTourApp
