@@ -167,13 +167,13 @@
 ## 🎓 Certifications
 
 <p>
-  <a href="https://coursera.org/share/8b49f70ff1500d6b6c0aba1b9038848d">
+  <a href="https://coursera.org/share/8b49f70ff1500d6b6c0aba1b9038848d" target="_blank">
     <img src="https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <a href="https://www.coursera.org/account/accomplishments/verify/P5MXY1E410Q4">
+  <a href="https://www.coursera.org/account/accomplishments/verify/P5MXY1E410Q4" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-Getting_Started_with_Generative_AI_in_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
 </p>
