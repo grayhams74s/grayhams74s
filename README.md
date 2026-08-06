@@ -167,10 +167,7 @@
 ## 🎓 Certifications
 
 * **[Getting Started with Generative AI in Azure — Microsoft](https://www.coursera.org/account/accomplishments/verify/P5MXY1E410Q4)**
-* **Tailwind CSS From Scratch | Learn By Building Projects**
-* **Full MERN Stack Project with MongoDB, Express, React, NodeJS**
-* **The Ultimate 2025 Fullstack Web Development Bootcamp**
-* **Complete React Developer (w/ Redux, Hooks, GraphQL)**
+* **[AI Fundamentals — Google](https://coursera.org/share/8b49f70ff1500d6b6c0aba1b9038848d)**
 
 ---
 
