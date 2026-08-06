@@ -12,7 +12,6 @@
 
 <h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1> <h3 align="left">Generative AI Engineer • LLM Engineer • Software Engineer</h3>
 
----
 
 
 ## 🧑‍💻 About Me
