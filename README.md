@@ -166,8 +166,17 @@
 
 ## 🎓 Certifications
 
-* **[Getting Started with Generative AI in Azure — Microsoft](https://www.coursera.org/account/accomplishments/verify/P5MXY1E410Q4)**
-* **[AI Fundamentals — Google](https://coursera.org/share/8b49f70ff1500d6b6c0aba1b9038848d)**
+<p>
+  <a href="https://coursera.org/share/8b49f70ff1500d6b6c0aba1b9038848d">
+    <img src="https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/verify/P5MXY1E410Q4">
+    <img src="https://img.shields.io/badge/Microsoft-Getting_Started_with_Generative_AI_in_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
 
 ---
 
