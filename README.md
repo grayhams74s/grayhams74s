@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=grayhams74s&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1> <h3 align="left">AI Engineer • LLM Engineer • Software Engineer</h3>
+<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1> <h3 align="left">Generative AI Engineer • LLM Engineer • Software Engineer</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 * 📍 Based in **Metro Manila, Philippines**
-* 🤖 **AI Engineer** building intelligent applications, AI agents, automation systems, and production-ready AI features
+* 🤖 **Generative AI Engineer** building intelligent applications, AI agents, automation systems, and production-ready AI features
 * 🧠 Working with **LLMs, RAG, agentic AI, embeddings, vector databases, prompt engineering, and AI workflow automation**
 * 🐍 Building AI services and APIs using **Python, FastAPI, Pydantic, LangChain, CrewAI, Hugging Face, and Ollama**
 * 💻 Experienced in integrating AI into full-stack applications using **Next.js, React, TypeScript, Node.js, and PostgreSQL**
