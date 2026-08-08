@@ -31,7 +31,25 @@
 
 ## 🛠 Tech Stack
 
-### 🤖 AI Engineering & LLM 
+
+
+### 🤖 AI Engineering & LLM
+
+<p>
+  <img src="https://thesvg.org/icons/python/default.svg" alt="Python" width="34" height="34" title="Python" />
+  <img src="https://thesvg.org/icons/jupyter/default.svg" alt="Jupyter Notebook" width="34" height="34" title="Jupyter Notebook" />
+  <img src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" width="34" height="34" title="FastAPI" />
+  <img src="https://thesvg.org/icons/pydantic/default.svg" alt="Pydantic" width="34" height="34" title="Pydantic" />
+  <img src="https://thesvg.org/icons/numpy/default.svg" alt="NumPy" width="34" height="34" title="NumPy" />
+  <img src="https://thesvg.org/icons/pandas/default.svg" alt="Pandas" width="34" height="34" title="Pandas" />
+  <img src="https://thesvg.org/icons/huggingface/default.svg" alt="Hugging Face" width="34" height="34" title="Hugging Face" />
+  <img src="https://thesvg.org/icons/langchain/default.svg" alt="LangChain" width="34" height="34" title="LangChain" />
+  <img src="https://thesvg.org/icons/crewai/default.svg" alt="CrewAI" width="34" height="34" title="CrewAI" />
+  <img src="https://thesvg.org/icons/ollama/default.svg" alt="Ollama" width="34" height="34" title="Ollama" />
+  <img src="https://thesvg.org/icons/gradio/default.svg" alt="Gradio" width="34" height="34" title="Gradio" />
+  <img src="https://thesvg.org/icons/openai/default.svg" alt="OpenAI" width="34" height="34" title="OpenAI" />
+  <img src="https://thesvg.org/icons/anthropic/default.svg" alt="Anthropic" width="34" height="34" title="Anthropic" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -40,77 +58,110 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
+
+Python · Jupyter Notebook · FastAPI · Pydantic · NumPy · Pandas · Hugging Face · LangChain · CrewAI · Ollama · Gradio · OpenAI · Anthropic
+
 ### 🧠 AI Systems & Automation
+<p>
+  <img src="https://thesvg.org/icons/openai/default.svg" alt="LLMs" width="34" height="34" title="Large Language Models" />
+  <img src="https://thesvg.org/icons/databricks/default.svg" alt="RAG" width="34" height="34" title="RAG" />
+  <img src="https://thesvg.org/icons/openai/default.svg" alt="AI Agents" width="34" height="34" title="AI Agents" />
+  <img src="https://thesvg.org/icons/openai/default.svg" alt="Prompt Engineering" width="34" height="34" title="Prompt Engineering" />
+  <img src="https://thesvg.org/icons/postgresql/default.svg" alt="Vector Databases" width="34" height="34" title="Vector Databases" />
+  <img src="https://thesvg.org/icons/pinecone/default.svg" alt="Pinecone" width="34" height="34" title="Pinecone" />
+  <img src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" width="34" height="34" title="n8n" />
+  <img src="https://thesvg.org/icons/redis/default.svg" alt="Redis" width="34" height="34" title="Redis" />
+  <img src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" width="34" height="34" title="PostgreSQL" />
+</p>
 
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-111827?style=for-the-badge\&logo=openai\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge\&logo=databricks\&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge\&logo=openai\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge\&logo=make\&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge\&logo=zapier\&logoColor=white)
-![APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge\&logo=webhook\&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-EA580C?style=for-the-badge\&logo=openai\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-111827?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-EA580C?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+LLMs · RAG · AI Agents · Prompt Engineering · Vector Databases · Pinecone · Embeddings · n8n · Redis · PostgreSQL
 
 ### 🌐 Frontend
+<p>
+  <img src="https://thesvg.org/icons/nextjs/default.svg" alt="Next.js" width="34" height="34" title="Next.js" />
+  <img src="https://thesvg.org/icons/react/default.svg" alt="React" width="34" height="34" title="React" />
+  <img src="https://thesvg.org/icons/typescript/default.svg" alt="TypeScript" width="34" height="34" title="TypeScript" />
+  <img src="https://thesvg.org/icons/javascript/default.svg" alt="JavaScript" width="34" height="34" title="JavaScript" />
+  <img src="https://thesvg.org/icons/redux/default.svg" alt="Redux" width="34" height="34" title="Redux" />
+  <img src="https://thesvg.org/icons/redux/default.svg" alt="Redux Toolkit Query" width="34" height="34" title="Redux Toolkit Query" />
+  <img src="https://thesvg.org/icons/tailwindcss/default.svg" alt="Tailwind CSS" width="34" height="34" title="Tailwind CSS" />
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Redux Toolkit Query](https://img.shields.io/badge/Redux%20Toolkit%20Query-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit Query](https://img.shields.io/badge/Redux%20Toolkit%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+Next.js · React · TypeScript · JavaScript · Redux · Redux Toolkit Query · Tailwind CSS
 
 ### ⚙️ Backend & Database
+<p>
+  <img src="https://thesvg.org/icons/nodedotjs/default.svg" alt="Node.js" width="34" height="34" title="Node.js" />
+  <img src="https://thesvg.org/icons/express/default.svg" alt="Express" width="34" height="34" title="Express" />
+  <img src="https://thesvg.org/icons/fastapi/default.svg" alt="FastAPI" width="34" height="34" title="FastAPI" />
+  <img src="https://thesvg.org/icons/flask/default.svg" alt="Flask" width="34" height="34" title="Flask" />
+  <img src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" width="34" height="34" title="PostgreSQL" />
+  <img src="https://thesvg.org/icons/redis/default.svg" alt="Redis" width="34" height="34" title="Redis" />
+  <img src="https://thesvg.org/icons/auth0/default.svg" alt="OAuth" width="34" height="34" title="OAuth" />
+  <img src="https://thesvg.org/icons/fastapi/default.svg" alt="REST APIs" width="34" height="34" title="REST APIs" />
+  <img src="https://thesvg.org/icons/graphql/default.svg" alt="GraphQL" width="34" height="34" title="GraphQL" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge\&logo=auth0\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+Node.js · Express · FastAPI · Flask · PostgreSQL · Redis · OAuth · REST APIs · GraphQL
 
 ### ☁️ DevOps & Cloud
+<p>
+  <img src="https://thesvg.org/icons/git/default.svg" alt="Git" width="34" height="34" title="Git" />
+  <img src="https://thesvg.org/icons/docker/default.svg" alt="Docker" width="34" height="34" title="Docker" />
+  <img src="https://thesvg.org/icons/kubernetes/default.svg" alt="Kubernetes" width="34" height="34" title="Kubernetes" />
+  <img src="https://thesvg.org/icons/vercel/default.svg" alt="Vercel" width="34" height="34" title="Vercel" />
+  <img src="https://thesvg.org/icons/firebase/default.svg" alt="Firebase" width="34" height="34" title="Firebase" />
+  <img src="https://thesvg.org/icons/github-actions/default.svg" alt="GitHub Actions" width="34" height="34" title="GitHub Actions" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge\&logo=circleci\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge\&logo=neon\&logoColor=black)
-
-### 🛠 AI Development Tools
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=claude\&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=black)
 
 ---
 
