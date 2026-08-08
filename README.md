@@ -27,7 +27,7 @@
 * 🚀 Building AI and automation solutions that solve real business problems across **sales, customer support, document processing, operations, and SaaS**
 * ⚙️ Comfortable owning solutions end-to-end — from **workflow design and AI architecture to backend development, integrations, databases, deployment, and monitoring**
 * ⚡ Using modern AI development tools including **Claude, Codex, Cursor, and OpenAI** to accelerate development while maintaining engineering quality
-* 📚 Continuously improving my skills in **AI automation, agentic systems, evaluation, observability, reliability, scalability, and production deployment**
+
 
 ## 🛠 Tech Stack
 
