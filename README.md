@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=grayhams74s&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1> <h3 align="left">Generative AI Engineer • LLM Engineer • Software Engineer</h3>
+<h1 align="left">Hi 👋, I'm Felix Angcot Jr.</h1> <h3 align="left">AI Automation Specialist • LLM Engineer • Software Engineer</h3>
 
 
 
