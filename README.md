@@ -17,14 +17,17 @@
 ## 🧑‍💻 About Me
 
 * 📍 Based in **Metro Manila, Philippines**
-* 🤖 **Generative AI Engineer** building intelligent applications, AI agents, automation systems, and production-ready AI features
-* 🧠 Working with **LLMs, RAG, agentic AI, embeddings, vector databases, prompt engineering, and AI workflow automation**
-* 🐍 Building AI services and APIs using **Python, FastAPI, Pydantic, LangChain, CrewAI, Hugging Face, and Ollama**
-* 💻 Experienced in integrating AI into full-stack applications using **Next.js, React, TypeScript, Node.js, and PostgreSQL**
-* 🚀 Building AI-powered products that solve real business problems across web, mobile, analytics, automation, and computer vision
-* ⚙️ Comfortable owning products end-to-end: AI architecture, model integration, frontend, backend, APIs, databases, deployment, and monitoring
-* ⚡ I use modern AI development tools such as **Claude, Codex, Cursor, and OpenAI** to improve development speed while maintaining engineering quality
-* 📚 Continuously learning better AI architecture, evaluation, observability, scalability, performance, and production deployment patterns
+* 🤖 **Generative AI & Automation Engineer** building AI agents, intelligent applications, and end-to-end business automation systems
+* 🔄 Building automated workflows with **n8n, Make, Zapier, APIs, webhooks, and AI-powered integrations**
+* 🧠 Working with **LLMs, RAG, AI agents, embeddings, vector databases, tool calling, and agentic workflows**
+* 🐍 Building custom AI services and backend logic using **Python, FastAPI, Pydantic, LangChain, LangGraph, Hugging Face, and Ollama**
+* 🔌 Integrating **LLMs, CRMs, databases, SaaS platforms, APIs, and business tools** into reliable automated workflows
+* 💻 Bringing strong full-stack experience with **Next.js, React, TypeScript, Node.js, PostgreSQL, and Supabase**
+* 🐳 Comfortable with **Docker, deployment, databases, API integrations, and production AI infrastructure**
+* 🚀 Building AI and automation solutions that solve real business problems across **sales, customer support, document processing, operations, and SaaS**
+* ⚙️ Comfortable owning solutions end-to-end — from **workflow design and AI architecture to backend development, integrations, databases, deployment, and monitoring**
+* ⚡ Using modern AI development tools including **Claude, Codex, Cursor, and OpenAI** to accelerate development while maintaining engineering quality
+* 📚 Continuously improving my skills in **AI automation, agentic systems, evaluation, observability, reliability, scalability, and production deployment**
 
 ## 🛠 Tech Stack
 
