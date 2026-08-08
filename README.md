@@ -108,13 +108,6 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
-### 📱 Mobile
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge\&logo=swift\&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge\&logo=xcode\&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0A84FF?style=for-the-badge\&logo=apple\&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=for-the-badge\&logo=appstore\&logoColor=white)
 
 ---
 
