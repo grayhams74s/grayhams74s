@@ -37,15 +37,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 🧠 AI Systems & Automation
 
@@ -53,10 +49,19 @@
 ![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge\&logo=make\&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge\&logo=zapier\&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge\&logo=webhook\&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-EA580C?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
 
 ### 🌐 Frontend
 
