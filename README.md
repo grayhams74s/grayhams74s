@@ -65,34 +65,30 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-
-Python · Jupyter Notebook · FastAPI · Pydantic · NumPy · Pandas · Hugging Face · LangChain · CrewAI · Ollama · Gradio · OpenAI · Anthropic
-
 ### 🧠 AI Systems & Automation
 <p>
   <img src="https://thesvg.org/icons/openai/default.svg" alt="LLMs" width="34" height="34" title="Large Language Models" />
-  <img src="https://thesvg.org/icons/databricks/default.svg" alt="RAG" width="34" height="34" title="RAG" />
-  <img src="https://thesvg.org/icons/openai/default.svg" alt="AI Agents" width="34" height="34" title="AI Agents" />
-  <img src="https://thesvg.org/icons/openai/default.svg" alt="Prompt Engineering" width="34" height="34" title="Prompt Engineering" />
   <img src="https://thesvg.org/icons/postgresql/default.svg" alt="Vector Databases" width="34" height="34" title="Vector Databases" />
   <img src="https://thesvg.org/icons/pinecone/default.svg" alt="Pinecone" width="34" height="34" title="Pinecone" />
   <img src="https://thesvg.org/icons/n8n/default.svg" alt="n8n" width="34" height="34" title="n8n" />
+  <img src="https://thesvg.org/icons/zapier/default.svg" alt="Zapier" width="34" height="34" title="Zapier" />
+  <img src="https://thesvg.org/icons/make/default.svg" alt="Make" width="34" height="34" title="Make" />
   <img src="https://thesvg.org/icons/redis/default.svg" alt="Redis" width="34" height="34" title="Redis" />
   <img src="https://thesvg.org/icons/postgresql/default.svg" alt="PostgreSQL" width="34" height="34" title="PostgreSQL" />
 </p>
 
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-111827?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge&logo=openai&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-EA580C?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-LLMs · RAG · AI Agents · Prompt Engineering · Vector Databases · Pinecone · Embeddings · n8n · Redis · PostgreSQL
 
 ### 🌐 Frontend
 <p>
@@ -112,8 +108,6 @@ LLMs · RAG · AI Agents · Prompt Engineering · Vector Databases · Pinecone �
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit Query](https://img.shields.io/badge/Redux%20Toolkit%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-Next.js · React · TypeScript · JavaScript · Redux · Redux Toolkit Query · Tailwind CSS
 
 ### ⚙️ Backend & Database
 <p>
@@ -137,8 +131,6 @@ Next.js · React · TypeScript · JavaScript · Redux · Redux Toolkit Query · 
 ![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-Node.js · Express · FastAPI · Flask · PostgreSQL · Redis · OAuth · REST APIs · GraphQL
 
 ### ☁️ DevOps & Cloud
 <p>
